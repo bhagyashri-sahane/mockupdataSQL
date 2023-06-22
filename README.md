@@ -8,21 +8,21 @@ DB browser is used for crating Database with SQLite it is like as mySQL.
 IN wich i did the SELECT * FROM both table. 
 There is a two table in Database
  ### 1 users which have
--user_id
--email_domain
--country
--postal
--mobile_app
--sign_up_at
+user_id,
+email_domain,
+country,
+postal,
+mobile_app,
+sign_up_at,
 Columns
 
 ### 2 Progress which have
--user_id
--learn_cpp
--learn_sql
--learn_html
--learn_javascript
--learn_java
+user_id,
+learn_cpp,
+learn_sql,
+learn_html,
+learn_javascript,
+learn_java,
 columns
 
 AFTER that i write query for top 25 school for .edu domain.
